@@ -16,7 +16,7 @@ Trí tuệ nhân tạo, hay Artificial Intelligence (AI), đã nhận được r
 
 Tuy nhiên, tự động hóa đang tạo ra việc làm cũng như loại bỏ chúng, đặc biệt là trong lĩnh vực AI: Pundits dự đoán rằng các công việc trong AI sẽ đạt 23 triệu USD vào năm 2020 (dự tính thống kê). Việc làm sẽ được tạo ra trong các ngành phát triển, lập trình, thử nghiệm kiểm thử, hỗ trợ và bảo trì, dự đoán trong các ngành hàng không, quân sự..
 
-#### An ninh mạng - Cyber Security
+#### 2. An ninh mạng - Cyber Security
 Về An Ninh Mạng chưa chắc đã xa lạ với chúng ta, nó đã xuất hiện được một thời gian, nhưng nó đang phát triển giống như các công nghệ khác hiện nay. Điều đó vì một phần là các mối đe dọa tới dữ liệu tiền ẩn trong môi trường internet. Các tin tặc hay hacker đang cố gắng truy cập dữ liệu và tấn công một cách bất hợp pháp, chúng sẽ không sớm từ bỏ và sẽ tiếp tục tìm cách vượt qua mọi giải pháp bảo mật (firewall) phức tạp nhất hiện nay. Đó cũng là một phần vì có nhiều công nghê mới đang được điều chỉnh và phát triển đồng nghĩa phải tăng cường bảo mật một các tối đa.
 An Ninh Mạng là vị trí không thể thiếu trong các tổ chức, văn phòng lớn hoặc tổ chức đang phát triển nhằm bảo vệ khỏi các cuộc tấn công vào hệ thống, dữ liệu...  thực thể chính phải được bảo vệ như: computers, smart devices, and routers, networks and the cloud.  Công nghệ này phổ biến được sử dụng để bảo vệ các thực thể này bao gồm firewalls, DNS filtering, malware protection, antivirus software, and email security solutions.
 
