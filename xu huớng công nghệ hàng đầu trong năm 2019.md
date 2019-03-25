@@ -15,3 +15,4 @@ Trí tuệ nhân tạo, hay Artificial Intelligence (AI), đã nhận được r
 - AI đã có từ năm 1956 đã được sử dụng rất rộng rãi. Trên thực tế, năm trong số sáu người Mỹ sử dụng dịch vụ AI dưới hình thức này hay hình thức khác mỗi ngày, bao gồm ứng dụng điều hướng, dịch vụ phát trực tuyến, trợ lý cá nhân trên điện thoại thông minh, ứng dụng chia sẻ đi xe, trợ lý cá nhân tại nhà và thiết bị nhà thông minh (SmartHome). Ngoài việc sử dụng cá nhân. AI được sử dụng để lên lịch các chuyến tàu, đánh giá rủi ro kinh doanh, dự đoán bảo trì và cải thiện hiệu quả năng lượng, trong số nhiều nhiệm vụ là tiết kiệm chi phí.
 
 Tuy nhiên, tự động hóa đang tạo ra việc làm cũng như loại bỏ chúng, đặc biệt là trong lĩnh vực AI: Pundits dự đoán rằng các công việc trong AI sẽ đạt 23 triệu USD vào năm 2020 (dự tính thống kê). Việc làm sẽ được tạo ra trong các ngành phát triển, lập trình, thử nghiệm kiểm thử, hỗ trợ và bảo trì, dự đoán trong các ngành hàng không, quân sự..
+
