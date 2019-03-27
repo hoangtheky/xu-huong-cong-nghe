@@ -1,4 +1,4 @@
-## xu huớng công nghệ hàng đầu trong năm 2019
+## xu hướng công nghệ hàng đầu trong năm 2019
 
 Công nghệ hiện đang phát triển với tốc độ nhanh đến mức những dự đoán về xu hướng hàng năm được phát hành trực tuyến dưới dạng bài đăng hoặc bài viết trên blog dường như đã lỗi thời trước khi chúng được . Khi công nghệ phát triển, nó cho phép thay đổi và tiến bộ rất nhanh chóng, gây ra sự tăng tốc dẫn đến chóng mặt và cuối cùng nó sẽ trở thành cấp số nhân.
 
