@@ -4,7 +4,7 @@ Tuy nhiên, hiện nay chính các đơn vị doanh nghiệp nhỏ, chẳng hạ
 
 Dưới đây tôi đã biên soạn một danh sách các số liệu thống kê an ninh mạng để giúp chúng ta nhìn một cách trực quan hóa những gì đang xảy ra trong lĩnh vực này cũng như những gì mong đợi của ngành nghề trong các năm tới.
 
-Dưới đây là một vài sự thật cần lưu ý mà tôi đã tổng hợp từ các nguồn khác nhau:
+`Dưới đây là một vài sự thật cần lưu ý mà tôi đã tổng hợp từ các nguồn khác nhau:`
 
 - Bảo mật CNTT cần phải được thúc đẩy và phải luôn trú trọng vì phải mất nửa năm để phát hiện xâm phạm dữ liệu.
 - Thống kê cho thấy 43% tất cả các cuộc tấn công mạng là nhằm vào các doanh nghiệp nhỏ để có bàn đạp để hacker nhân rộng cuộc tấn công với quy mô lớn phạm vi toàn cầu.
