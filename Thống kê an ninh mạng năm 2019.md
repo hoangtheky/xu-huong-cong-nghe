@@ -18,13 +18,13 @@ Dưới đây là một vài sự thật cần lưu ý mà tôi đã tổng hợ
 
 ##### Vi phạm dữ liệu (Data Breaches)
 
-###### 1: Các cuộc tấn công đều là đánh cắp thông tin người dùng và đích kèm mã độc trong máy người dùng.
+#### 1: Các cuộc tấn công đều là đánh cắp thông tin người dùng và đích kèm mã độc trong máy người dùng.
 Trong hầu hết các trường hợp, các công ty phải mất khoảng 6 tháng để phát hiện vi phạm dữ liệu.
 (Nguồn: Mạng ZD)
 
 Nếu một vụ cướp xảy ra và các thủ phạm đều đã trốn thoát, chúng sẽ phải chuẩn bị bao lâu để chúng che đi dấu vết của mình? Một ngày? Một tiếng hay 1 tháng ? Tội phạm mạng thường chuẩn bị cho kế hoạch tấn công mạng ngắn nhất khoảng 6 tháng bở vì vậy điều khiến việc theo dõi chúng trở nên rất khó khăn.
 
-###### 2: Thống kê cho thấy có 8.854 vụ vi phạm được ghi nhận từ ngày 1 tháng 1 năm 2005 đến ngày 18 tháng 4 năm 2018.
+#### 2: Thống kê cho thấy có 8.854 vụ vi phạm được ghi nhận từ ngày 1 tháng 1 năm 2005 đến ngày 18 tháng 4 năm 2018.
 (Nguồn: Trung tâm tài nguyên trộm cắp danh tính)
 
 Những vi phạm này đã chiếm hàng triệu hồ sơ của các doanh nghiệp tư, chính phủ.. với giá mỗi hồ sơ dao động từ 120$ - 600$. Nếu chúng ta tính trung bình những khoản này ở mức 360$ trên mỗi hồ sơ, thì tổng giá của các vi phạm này là hàng tỷ đô la Mỹ. Các doanh nghiệp thường đưa ra vấn đề sẽ tốn bao nhiêu chi phí để cho một người làm An Ninh Mạng và không đề cập đến vấn đề tốn bao nhiêu chi phí để trả phí cho các cuộc tấn công.
@@ -34,35 +34,35 @@ Những vi phạm này đã chiếm hàng triệu hồ sơ của các doanh nghi
 
 Hiện nay trên thế giới không bất kể ngành nghề nào thì làm việc trên môi trường internet là điều đầu tiên họ nghĩ tới và áp dụng ngay khi startup hoặc để vận hành một công ty để trao đổi thông tin nội bộ,với khách hàng và đối tác. Tất cả trao đổi thông qua môi trường internet (email nội bộ, mail google, website...) Thế nào nếu công ty bạn nằm trong 61% trong các doanh nghiệp bị tấn công. Điều đó chắc chắn bạn đã biết được tầm qua trong trong việc bản mật và An Ninh Mạng.
 
-##### Tấn công mạng
+#### Tấn công mạng
 Mỗi cuộc tấn công đều có sự ảnh hưởng và mức độ nguy hiểm khác nhau, nhưng chúng có thể tàn phá hoàn toàn, đặc biệt là đối với các chủ doanh nghiệp nhỏ.
 
-###### 1. Theo thống kê 43% các cuộc tấn công mạng được nhắm mục tiêu vào các doanh nghiệp nhỏ.
+#### 1. Theo thống kê 43% các cuộc tấn công mạng được nhắm mục tiêu vào các doanh nghiệp nhỏ.
 (Nguồn: Xu hướng kinh doanh nhỏ)
 
 Nó có rất nhiều ý nghĩa rằng anh chàng nhỏ bé được nhắm mục tiêu rất thường xuyên. Mặc dù lợi ích của cuộc tấn công như vậy đối với tin tặc là tương đối nhỏ, nhưng việc gỡ bỏ nó dễ dàng hơn nhiều. Nhiều doanh nghiệp nhỏ có cơ sở hạ tầng bảo mật tối thiểu, khiến chúng trở thành con mồi dễ dàng cho những kẻ săn mồi dữ liệu. Xem xét số lượng các cuộc tấn công mạng mỗi ngày, khá nhiều trong số đó được nhắm mục tiêu.
 
-###### 2. Khoảng 50% các công ty rủi ro phải đối mặt bằng cách có nhiều nhà cung cấp bảo mật.
+#### 2. Khoảng 50% các công ty rủi ro phải đối mặt bằng cách có nhiều nhà cung cấp bảo mật.
 (Nguồn: Cisco)
 
 Người ta có thể nghĩ khi nói đến an ninh, càng có nhiều merrier. Tuy nhiên, có nhiều nhà cung cấp bảo mật là một cách tuyệt vời để làm phức tạp cơ sở hạ tầng bảo mật của bạn theo cách có khả năng tạo ra lỗ hổng lớn hơn. Tốt nhất là gắn bó với một nhà cung cấp bảo mật và tuân thủ tất cả các cập nhật bảo mật và đề xuất mà nhà cung cấp đưa ra, theo các số liệu thống kê hack khác nhau.
 
-###### 3. Các cuộc tấn công IoT đã tăng 600% trong năm 2017.
+#### 3. Các cuộc tấn công IoT đã tăng 600% trong năm 2017.
 (Nguồn: Symantec)
 
 Gần như tất cả mọi người đều có điện thoại thông minh, khiến tin tặc và tội phạm mạng có nhiều lựa chọn mục tiêu để tấn công hơn. Một phần của sự gia tăng có thể được quy cho số lượng thiết bị IoT tăng lên, nhưng vấn đề lớn hơn là bảo mật không theo kịp tốc độ của các mối đe dọa ngày càng tăng.
 
-###### 4. 31% các tổ chức đã trải qua các cuộc tấn công mạng vào cơ sở hạ tầng hoạt động.
+#### 4. 31% các tổ chức đã trải qua các cuộc tấn công mạng vào cơ sở hạ tầng hoạt động.
 (Nguồn: Cisco)
 
 Có lẽ bên liên quan nhiều hơn đến thống kê an ninh mạng nói chung là số lượng sự cố đã không được báo cáo. Đầu cơ sẽ khiến người ta tin rằng con số 31% thấp hơn đáng kể so với thực tế. Dù thế nào đi chăng nữa, đây là một con số quan trọng cần lưu ý vì ít nhất nó cũng cho thấy tin tặc thành thạo trong việc tìm đúng mục tiêu.
 
-###### 5. Các cuộc tấn công DDoS chiếm 5% lưu lượng truy cập hàng tháng liên quan đến chơi game.
+#### 5. Các cuộc tấn công DDoS chiếm 5% lưu lượng truy cập hàng tháng liên quan đến chơi game.
 (Nguồn: Cox BLUE)
 
 Một hình thức tấn công phổ biến khác xuất hiện dưới dạng DDoS. Cuộc tấn công này cố gắng làm gián đoạn lưu lượng truy cập thường xuyên đến điểm cuối web mong muốn. Chơi trò chơi video là một nơi phổ biến cho các cuộc tấn công này xảy ra vì có các điểm cuối cụ thể và có thể dự đoán được cho hầu hết các thiết bị.
 
-###### 6. Chỉ 38% các tổ chức toàn cầu cho rằng họ được trang bị và có thể xử lý một cuộc tấn công mạng phức tạp
+#### 6. Chỉ 38% các tổ chức toàn cầu cho rằng họ được trang bị và có thể xử lý một cuộc tấn công mạng phức tạp
 (Nguồn: IBM)
 
 Có lẽ một trong những thống kê an ninh mạng đáng báo động nhất trong danh sách này là sự hiểu biết rằng 62% các tổ chức toàn cầu không thể tuyên bố rằng họ được trang bị để xử lý một cuộc tấn công mạng. Khoảng trống này sẽ dẫn đến chi phí cho an ninh mạng được cải thiện trong tương lai.
